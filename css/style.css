@@ -6,6 +6,16 @@
  * Made By MaterializeCSS.com
  */
 
+.tech {
+  padding-left: 25%;
+}
+
+.tech-rows {
+  margin: auto;
+  display: inline-block;
+
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
